@@ -22,3 +22,9 @@ logs
 .env
 .env.*
 !.env.example
+
+# AGENTS.md
+.AGENTS.md
+
+# 学習ログ
+.LEARNING_LOG.md
